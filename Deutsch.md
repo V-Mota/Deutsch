@@ -6,12 +6,12 @@
 | **sein** *(to be)*  |                   |
 | :----------- | ------------ |
 |ich **bin** | wir **sind** |
-|du **biest** | ihr **seid**|
+|du **beist** | ihr **seid**|
 |er, sie, es **ist**| sie, Sie  **sind**|
 
 
 
-| heißen **             |                    |
+| heißen *(to be called)* |                    |
 | :----------- | ------------ |
 |ich **heiße** | wir **heißen** |
 |du **heißt** | ihr **heißt**|
@@ -45,21 +45,46 @@
 
 ##  Sätze *(sentences)*
 
-### Introductrion
+### *Introductrion*
 
 *Who are you?*
-**Wer bist du?** 
+**Wer bist du?** *(informal)*
+**Wie sind Sie?** *(formal)*
 Ich bin ...
 
 *What's your name?*
-**Wie geht's?**
+**Wie heißt du?**
+**Wie heiesen Sie?**
+Ich heiße ...
+
+### *Greetings*
+
+**Guten Morgen!**  *(between 6-10)*
+**Guten Tag!** *(between 10-18)*
+**Guten Abend!** *(between 18-22)*
+
+*How are you?*
+**Wie geht's?** *(Informal)*
+**Wie geht Ihm?** *(Formal)* 
+**Wie geht es dir?**
+**Wie geht es Ihnen?**
 Danke, gut.
 Danke, sehr gut.
-Es geth.
+Es geht.
+**Gut, danke. Und dir?** *("Good thanks, and you")*
+**Auch gut, dank** *("Also good, thanks")*
 
+### *Farewell*
 
+**Auf Wiedersehen!** *("Til I see you again")*
+**Auf Wiederhörern!** *("Til I hear you again". At the end of a phone call)*
+**Gute Nacht**!
 
+## *Grammer*
 
+**Herr** *(Mr.)*
+**Frau** *(Ms./Mrs.)*
+*(Always use with the last name)*
 
 
 
