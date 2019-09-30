@@ -37,9 +37,9 @@
 
 | kommen *(to come from)*   | |
 | :------------------------ | -------------------- |
-| ich **wohne**             | wir **wohnen**       |
-| du **wohnst**             | ihr **wohnt**        |
-| er, sie, es **wohnt**     | sie, Sie  **wohnen** |
+| ich **komme**       | wir **kommen**  |
+| du **kommst**       | ihr **kommt**    |
+| er, sie, es **kommt** | sie, Sie  **kommen** |
 
 
 
@@ -53,11 +53,14 @@
 Ich bin ...
 Hallo ich bin ... Und du?
 Hallo ich bin ... Und dir?
+Ich bin ... Und das ist ...  (i'm ... and this is ... )
 
 *What's your name?*
 **Wie heißt du?**
 **Wie heißen Sie?**
 Ich heiße ...
+**Entschuldigung, wie heißt du?** (Sorry, what's your name?)
+Meine Name ist ...
 
 ### *Greetings*
 
@@ -67,13 +70,13 @@ Ich heiße ...
 **Guten Abend!** *(between 18-22)*
 
 *How are you?*
-**Wie geht's?** *(Informal)*
+**Wie geht's?** *(Neutral/Formal/Informal)*
+**Wie geht es dir?** (Informal)
 **Wie geht Ihm?** *(Formal)* 
-**Wie geht es dir?**
-**Wie geht es Ihnen?**
-Danke, gut.
-Danke, sehr gut.
-Es geht.
+**Wie geht es Ihnen?** (Formal)
+Sehr gut!  :D  
+Es geht.   : )     
+Gut, danke.  : | 
 **Gut, danke. Und dir?** *("Good thanks, and you")*
 **Auch gut, danke** *("Also good, thanks")*
 
@@ -82,11 +85,47 @@ Es geht.
 **Auf Wiedersehen!** *("Til I see you again")*
 **Auf Wiederhören!** *("Til I hear from you again". At the end of a phone call)*
 **Gute Nacht**!
-**Tchüs!**
+**Tchüs!** (Bye)
+**Bis Bald!** (Bye for now)
+
+*Which languages do you speak?*
+**Welch Sprachen sprechen Sie?**
+**Welch Sprachen sprichst du?**
+Ich spreche Portugiesisch, Englisch und Deutsch.
+
+*Where do you come from?* 
+**Woher kommen Sie?**
+**Woher kommst du?**
+Ich komme aus Portugal.
+
+*Where do you live?*
+**Wo wohnen Sie?**
+**Wo wohnst du?**
+Ich wohne in Porto.
 
 ## *Grammar*
+
 
 **Herr** *(Mr.)*
 **Frau** *(Ms./Mrs.)*
 *(Use with the last name or with first + last)*
+
+**der** (male) 
+**die** (female)
+**das** (neutral)
+
+**mein** Name
+**meine** Kollegin *(male)* 
+**mein** Kollege *(female)*
+**der** Kollege (female formal)
+
+**Substantives are always written with an Upercase**
+
+**Wo** - wohnen - **in**
+**Woher** - kommen - **aus**
+**Welch** - sprechen
+**Wie** - heißen / geht
+**Wer** - sind
+
+## Vocabulary
 
