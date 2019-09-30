@@ -56,7 +56,7 @@ Hallo ich bin ... Und dir?
 
 *What's your name?*
 **Wie heißt du?**
-**Wie heiesen Sie?**
+**Wie heißen Sie?**
 Ich heiße ...
 
 ### *Greetings*
