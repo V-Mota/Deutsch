@@ -3,7 +3,7 @@
 ## Verben *(verbs)*
 
 
-| **sein** *(to be)*  |                   |
+| **sein** *(to be)* |  |
 | :----------- | ------------ |
 |ich **bin** | wir **sind** |
 |du **beist** | ihr **seid**|
@@ -11,7 +11,7 @@
 
 
 
-| heißen *(to be called)* |                    |
+| heißen *(to be called)* |  |
 | :----------- | ------------ |
 |ich **heiße** | wir **heißen** |
 |du **heißt** | ihr **heißt**|
@@ -19,7 +19,7 @@
 
 
 
-| sprechen *(to speak languages)* |                    |
+| sprechen *(to speak languages)* |  |
 | :----------- | ------------ |
 |ich **spreche** | wir **sprechen** |
 |du **sprichst** | ihr **sprecht**|
@@ -43,13 +43,13 @@
 
 
 
-##  Sätze *(sentences)*
+##  *Sentences*
 
-### *Introductrion*
+### *Introduction*
 
 *Who are you?*
 **Wer bist du?** *(informal)*
-**Wie sind Sie?** *(formal)*
+**Wer sind Sie?** *(formal)*
 Ich bin ...
 
 *What's your name?*
@@ -72,15 +72,15 @@ Danke, gut.
 Danke, sehr gut.
 Es geht.
 **Gut, danke. Und dir?** *("Good thanks, and you")*
-**Auch gut, dank** *("Also good, thanks")*
+**Auch gut, danke** *("Also good, thanks")*
 
 ### *Farewell*
 
 **Auf Wiedersehen!** *("Til I see you again")*
-**Auf Wiederhörern!** *("Til I hear you again". At the end of a phone call)*
+**Auf Wiederhören!** *("Til I hear you again". At the end of a phone call)*
 **Gute Nacht**!
 
-## *Grammer*
+## *Grammar*
 
 **Herr** *(Mr.)*
 **Frau** *(Ms./Mrs.)*
