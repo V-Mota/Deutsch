@@ -6,7 +6,7 @@
 | **sein** *(to be)* |  |
 | :----------- | ------------ |
 |ich **bin** | wir **sind** |
-|du **beist** | ihr **seid**|
+|du **bist** | ihr **seid**|
 |er, sie, es **ist**| sie, Sie  **sind**|
 
 
@@ -27,19 +27,19 @@
 
 
 
-| wohnen *(to live in)* |                      |
-| :-------------------- | -------------------- |
-| ich **wohne**         | wir **wohnen**       |
-| du **wohnst**         | ihr **wohnt**        |
-| er, sie, es **wohnt** | sie, Sie  **wohnen** |
+| wohnen *(to live in)*     | |
+| :------------------------ | -------------------- |
+| ich **wohne**             | wir **wohnen**       |
+| du **wohnst**             | ihr **wohnt**        |
+| er, sie, es **wohnt**     | sie, Sie  **wohnen** |
 
 
 
-| kommen *(to come from)* |                      |
-| :---------------------- | -------------------- |
-| ich **wohne**           | wir **wohnen**       |
-| du **wohnst**           | ihr **wohnt**        |
-| er, sie, es **wohnt**   | sie, Sie  **wohnen** |
+| kommen *(to come from)*   | |
+| :------------------------ | -------------------- |
+| ich **wohne**             | wir **wohnen**       |
+| du **wohnst**             | ihr **wohnt**        |
+| er, sie, es **wohnt**     | sie, Sie  **wohnen** |
 
 
 
@@ -51,6 +51,8 @@
 **Wer bist du?** *(informal)*
 **Wer sind Sie?** *(formal)*
 Ich bin ...
+Hallo ich bin ... Und du?
+Hallo ich bin ... Und dir?
 
 *What's your name?*
 **Wie heißt du?**
@@ -59,6 +61,7 @@ Ich heiße ...
 
 ### *Greetings*
 
+**Hallo**
 **Guten Morgen!**  *(between 6-10)*
 **Guten Tag!** *(between 10-18)*
 **Guten Abend!** *(between 18-22)*
@@ -77,16 +80,13 @@ Es geht.
 ### *Farewell*
 
 **Auf Wiedersehen!** *("Til I see you again")*
-**Auf Wiederhören!** *("Til I hear you again". At the end of a phone call)*
+**Auf Wiederhören!** *("Til I hear from you again". At the end of a phone call)*
 **Gute Nacht**!
+**Tchüs!**
 
 ## *Grammar*
 
 **Herr** *(Mr.)*
 **Frau** *(Ms./Mrs.)*
-*(Always use with the last name)*
-
-
-
-
+*(Use with the last name or with first + last)*
 
