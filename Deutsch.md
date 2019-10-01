@@ -105,6 +105,8 @@ Ich wohne in Porto.
 
 ## *Grammar*
 
+**ä ö ü** -> umlaut
+**ß** -> scharfes S
 
 **Herr** *(Mr.)*
 **Frau** *(Ms./Mrs.)*
@@ -128,4 +130,9 @@ Ich wohne in Porto.
 **Wer** - sind
 
 ## Vocabulary
+
+**Kursbuch** -> Text book
+**Arbeitsbuch** -> Exercise book
+**Buchstabieren** -> Spell
+**Entschuldigung** -> Sorry
 
