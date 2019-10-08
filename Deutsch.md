@@ -3,28 +3,24 @@
 ## Verben *(verbs)*
 
 
-| **sein** *(to be)* |  |
-| :----------- | ------------ |
-|ich **bin** | wir **sind** |
-|du **bist** | ihr **seid**|
-|er, sie, es **ist**| sie, Sie  **sind**|
+| **sein** *(to be)* |                   |
+| :---------------- | ------------------ |
+|ich **bin**        | wir **sind**       |
+|du **bist**        | ihr **seid**       |
+|er, sie, es **ist**| sie, Sie  **sind** |
 
-
-
-| heißen *(to be called)* |  |
-| :----------- | ------------ |
-|ich **heiße** | wir **heißen** |
-|du **heißt** | ihr **heißt**|
+| heißen *(to be called)* |                 |
+| :------------------ | ------------------- |
+|ich **heiße**        | wir **heißen**      |
+|du **heißt**         | ihr **heißt**       |
 |er, sie, es **heißt**| sie, Sie  **heißen**|
 
 
-
 | sprechen *(to speak languages)* |  |
-| :----------- | ------------ |
-|ich **spreche** | wir **sprechen** |
-|du **sprichst** | ihr **sprecht**|
+| :-------------------- | ------------ |
+|ich **spreche**        | wir **sprechen** |
+|du **sprichst**        | ihr **sprecht**|
 |er, sie, es **spricht**| sie, Sie  **sprechen**|
-
 
 
 | wohnen *(to live in)*     | |
@@ -33,15 +29,18 @@
 | du **wohnst**             | ihr **wohnt**        |
 | er, sie, es **wohnt**     | sie, Sie  **wohnen** |
 
-
-
-| kommen *(to come from)*   | |
+| kommen *(to come from)*   |                      |
 | :------------------------ | -------------------- |
-| ich **komme**       | wir **kommen**  |
-| du **kommst**       | ihr **kommt**    |
-| er, sie, es **kommt** | sie, Sie  **kommen** |
+| ich **komme**             | wir **kommen**       |
+| du **kommst**             | ihr **kommt**        |
+| er, sie, es **kommt**     | sie, Sie  **kommen** |
 
 
+| lernen *(to live in)*     |                      |
+| :------------------------ | -------------------- |
+| ich **lerne**             | wir **lernen**       |
+| du **lernst**             | ihr **lernt**        |
+| er, sie, es **lernt**     | sie, Sie  **lernen** |
 
 ##  *Sentences*
 
@@ -88,6 +87,8 @@ Gut, danke.  : |
 **Tchüs!** (Bye)
 **Bis Bald!** (Bye for now)
 
+### Common questions
+
 *Which languages do you speak?*
 **Welch Sprachen sprechen Sie?**
 **Welch Sprachen sprichst du?**
@@ -103,6 +104,13 @@ Ich komme aus Portugal.
 **Wo wohnst du?**
 Ich wohne in Porto.
 
+### Other phrases
+
+*In England, English is spoken.*
+**In** Großbritannien **spricht man** Englisch. -> man = 3rd person impersonal pronoun
+
+
+
 ## *Grammar*
 
 **ä ö ü** -> umlaut
@@ -117,9 +125,9 @@ Ich wohne in Porto.
 **das** (neutral)
 
 **mein** Name
-**meine** Kollegin *(male)* 
-**mein** Kollege *(female)*
-**der** Kollege (female formal)
+**meine** Kollegin *(female)* 
+**mein** Kollege *(male)*
+**der** Kollege (male formal)
 
 **Substantives are always written with an Upercase**
 
@@ -128,6 +136,16 @@ Ich wohne in Porto.
 **Welch** - sprechen
 **Wie** - heißen / geht
 **Wer** - sind
+
+### Countrys
+
+There are 4 types of countries, but 90% of the countries are neutral:
+
+| Neutral                                                      | Neutral                          | Male                             | Female                                                       |
+| ------------------------------------------------------------ | -------------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| **aus** Portugal<br/>**in** Frankreich -> *France*<br/>**in** Italien<br/>**aus** Deutschland | aus **dem** Irak<br/>**im** Iran | aus **dem** Irak<br/>**im** Iran | aus **der** Schweiz -> Switzerland<br/>aus **der** Slowakei<br/>aus **der** Ukraine<br/>in **der** Schweiz |
+
+
 
 ## Vocabulary
 
