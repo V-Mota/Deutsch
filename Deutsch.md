@@ -58,7 +58,8 @@ Ich bin ... Und das ist ...  (i'm ... and this is ... )
 **Wie heißt du?**
 **Wie heißen Sie?**
 Ich heiße ...
-**Entschuldigung, wie heißt du?** (Sorry, what's your name?)
+**Entschuldigung, wie heißt du?** (Sorry, what's your name?) 
+Wie ist dein Name?
 Meine Name ist ...
 
 ### *Greetings*
@@ -109,8 +110,6 @@ Ich wohne in Porto.
 *In England, English is spoken.*
 **In** Großbritannien **spricht man** Englisch. -> man = 3rd person impersonal pronoun
 
-
-
 ## *Grammar*
 
 **ä ö ü** -> umlaut
@@ -131,21 +130,62 @@ Ich wohne in Porto.
 
 **Substantives are always written with an Upercase**
 
-**Wo** - wohnen - **in**
-**Woher** - kommen - **aus**
-**Welch** - sprechen
-**Wie** - heißen / geht
-**Wer** - sind
+### W-Frage
+
+**Wo** - wohnen - **in** - (*Where*)
+**Woher** - kommen - **aus** - (*From where*)
+**Welch** - sprechen - (*Which*)
+**Wie** - heißen / geht - (*How*)
+**Wer** - sind - (*Who*)
+**Wann** - (*When*)
 
 ### Countrys
 
 There are 4 types of countries, but 90% of the countries are neutral:
 
-| Neutral                                                      | Neutral                          | Male                             | Female                                                       |
-| ------------------------------------------------------------ | -------------------------------- | -------------------------------- | ------------------------------------------------------------ |
-| **aus** Portugal<br/>**in** Frankreich -> *France*<br/>**in** Italien<br/>**aus** Deutschland | aus **dem** Irak<br/>**im** Iran | aus **dem** Irak<br/>**im** Iran | aus **der** Schweiz -> Switzerland<br/>aus **der** Slowakei<br/>aus **der** Ukraine<br/>in **der** Schweiz |
+| Neutral                                                      | Plural                                       | Male                             | Female                                                       |
+| ------------------------------------------------------------ | -------------------------------------------- | -------------------------------- | ------------------------------------------------------------ |
+| **aus** Portugal<br/>**in** Frankreich -> *France*<br/>**in** Italien<br/>**aus** Deutschland | aus **dem**  USA<br/>**im** den Niederlanden | aus **dem** Irak<br/>**im** Iran | aus **der** Schweiz -> Switzerland<br/>aus **der** Slowakei<br/>aus **der** Ukraine<br/>in **der** Schweiz |
 
+#### Female
+Aus der **Schweiz** spricht man **Deutsch**, **Französisch**, **Italienisch** und **Rätoromanisch**.
+Aus der **Schweden** spricht man **Schwedisch.**
+Aus der **Türkei** spricht man **Türkisch**. 
+Aus der **Ukraine** spricht man **Ukrainisch**. 
+Aus der **Slowakei** spricht man **Slowakisch**. 
 
+#### Plural
+
+Aus den **USA** spricht man **Englisch**. 
+Aus den **Niederladen** spricht man **Niederländisch**.
+
+#### Male
+Aus dem **Irak** spricht man **Arabisch.**
+Aus dem **Iran** spricht man **Arabisch**. 
+Aus dem **Libanon** spricht man **Arabisch**. 
+Aus dem **Jemen** spricht man **Arabisch**. 
+
+#### Neutral
+
+Aus **Portugal** spricht man **Portugiesisch**.
+Aus **Deutschland** spricht man **Deutsch**. 
+Aus **Polen** spricht man **Polnisch**.
+Aus **Mexiko** spricht man **Spanisch**.
+Aus **Kanada** spricht man **Englisch** und **Französisch**. 
+Aus **Thailand** spricht man **Thai**.
+Aus **Irland** spricht man **Irisch** und **Englisch**. 
+Aus **Syrien** spricht man **Arabisch**.
+Aus **Griechenland** spricht man **Griechisch**. 
+Aus **Neuseeland** spricht man **Maori** und **Englisch**.
+Aus **Spanien** spricht man **Spanisch**.
+Aus **Italien** spricht man **Italienisch**.
+Aus **China** spricht man **Chinesisch**. 
+Aus **Dänemark** spricht man **Dänisch**.
+Aus **Großbritannien** spricht man **Englisch**.
+Aus **Russland** spricht man **Russisch**. 
+Aus **Ägypten** spricht man **Arabisch**. 
+Aus **Japan** spricht man **Japanisch**.
+Aus **Deutschland** spricht man **Deutsch**. 
 
 ## Vocabulary
 
