@@ -90,7 +90,7 @@ Gut, danke.  : |
 
 ### Common questions
 
-*Which languages do you speak?*
+*.Which languages do you speak?*
 **Welch Sprachen sprechen Sie?**
 **Welch Sprachen sprichst du?**
 Ich spreche Portugiesisch, Englisch und Deutsch.
@@ -123,10 +123,17 @@ Ich wohne in Porto.
 **die** (female)
 **das** (neutral)
 
+#### female
+
 **mein** Name
-**meine** Kollegin *(female)* 
-**mein** Kollege *(male)*
-**der** Kollege (male formal)
+**mein** Kollege
+**der** Kollege 
+**Ihr** Kollege (formal)
+
+#### male
+**meine** Kollegin 
+**dein** Kollegin
+**Ihre** Kollegin (formal)
 
 **Substantives are always written with an Upercase**
 
