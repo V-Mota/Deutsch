@@ -121,6 +121,19 @@
 | du **gehst** ins Kino             | ihr **geht** ins Kino        |
 | er, sie, es **geht** ins Kino     | sie, Sie  **gehen** ins Kino |
 
+| haben *(to play)*     |                      |
+| :------------------------ | -------------------- |
+| ich **habe**             | wir **haben**       |
+| du **hast**             | ihr **habt**        |
+| er, sie, es **hat**     | sie, Sie  **haben** |
+
+
+| arbeiten *(to work)*     |                      |
+| :------------------------ | -------------------- |
+| ich **arbeite**             | wir **arbeiten**       |
+| du **arbeitest**             | ihr **arbeitet**        |
+| er, sie, es **arbeitet**     | sie, Sie  **arbeiten** |
+
 
 ##  *Sentences*
 
@@ -206,10 +219,11 @@ Ich wohne in Porto.
 Ja, ich gehe oft ins Kino.
 Nein, Ich gehe nicht oft ins Kino.
 
-### Other phrases
-
-*In England, English is spoken.*
-**In** Großbritannien **spricht man** Englisch. -> man = 3rd person impersonal pronoun
+*How old are you?*
+**Wie alt bist du?**
+**Wie alt sind sie?**
+Ich bin 28. *(I'm 28*)*
+Ich bin 28 Jahre alt. *(I'm 28 years old)*
 
 ## *Grammar*
 
@@ -256,7 +270,43 @@ Ja/Nein
 Ja/Nein
 
 
+
+
+
+## Vocabulary
+
+**Kursbuch** -> Text book
+**Arbeitsbuch** -> Exercise book
+**Buchstabieren** -> Spell
+**Entschuldigung** -> Sorry
+**Wochenende** -> Weekend
+**jedentag** -> Every day
+**die Zeitung** -> newspaper
+**die Zeitschnift** -> magazines
+
+
+
+### **Wochentage**  (Week days)
+**Montag**
+**Dienstag**
+**Mittwoch**
+**Donnerstag**
+**Freitag**
+
+#### **Wochenende** -> Weekend
+**Samstag**
+**Sonntag**
+
+
+### Numbers
+
+1 - eins
+2- 
+
 ### Countrys
+
+*In England, English is spoken.*
+**In** Großbritannien **spricht man** Englisch. -> man = 3rd person impersonal pronoun
 
 There are 4 types of countries, but 90% of the countries are neutral:
 
@@ -265,6 +315,7 @@ There are 4 types of countries, but 90% of the countries are neutral:
 | **aus** Portugal<br/>**in** Frankreich -> *France*<br/>**in** Italien<br/>**aus** Deutschland | aus **dem**  USA<br/>**im** den Niederlanden | aus **dem** Irak<br/>**im** Iran | aus **der** Schweiz -> Switzerland<br/>aus **der** Slowakei<br/>aus **der** Ukraine<br/>in **der** Schweiz |
 
 #### Female
+
 Aus der **Schweiz** spricht man **Deutsch**, **Französisch**, **Italienisch** und **Rätoromanisch**.
 Aus der **Schweden** spricht man **Schwedisch.**
 Aus der **Türkei** spricht man **Türkisch**. 
@@ -277,6 +328,7 @@ Aus den **USA** spricht man **Englisch**.
 Aus den **Niederladen** spricht man **Niederländisch**.
 
 #### Male
+
 Aus dem **Irak** spricht man **Arabisch.**
 Aus dem **Iran** spricht man **Arabisch**. 
 Aus dem **Libanon** spricht man **Arabisch**. 
@@ -303,11 +355,3 @@ Aus **Russland** spricht man **Russisch**.
 Aus **Ägypten** spricht man **Arabisch**. 
 Aus **Japan** spricht man **Japanisch**.
 Aus **Deutschland** spricht man **Deutsch**. 
-
-## Vocabulary
-
-**Kursbuch** -> Text book
-**Arbeitsbuch** -> Exercise book
-**Buchstabieren** -> Spell
-**Entschuldigung** -> Sorry
-
