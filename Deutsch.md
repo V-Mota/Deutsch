@@ -2,6 +2,7 @@
 
 ## Verben *(verbs)*
 
+### Irregular verbs
 
 | **sein** *(to be)* |                   |
 | :---------------- | ------------------ |
@@ -9,131 +10,90 @@
 |du **bist**        | ihr **seid**       |
 |er, sie, es **ist**| sie, Sie  **sind** |
 
-
 | heißen *(to be called)* |                 |
 | :------------------ | ------------------- |
-|ich **heiße**        | wir **heißen**      |
-|du **heißt**         | ihr **heißt**       |
-|er, sie, es **heißt**| sie, Sie  **heißen**|
+|ich heiße        | wir heißen      |
+|du heiß**t**         | ihr heißt       |
+|er, sie, es heißt| sie, Sie  heißen|
 
 
 | sprechen *(to speak languages)* |  |
 | :-------------------- | ------------ |
-|ich **spreche**        | wir **sprechen** |
-|du **sprichst**        | ihr **sprecht**|
-|er, sie, es **spricht**| sie, Sie  **sprechen**|
+|ich spreche            | wir sprechen |
+|du spr**i**chst        | ihr sprecht|
+|er, sie, es spr**i**cht| sie, Sie  sprechen|
 
-
-| wohnen *(to live in)*     | |
+| reisen *(to travel)*     |                      |
 | :------------------------ | -------------------- |
-| ich **wohne**             | wir **wohnen**       |
-| du **wohnst**             | ihr **wohnt**        |
-| er, sie, es **wohnt**     | sie, Sie  **wohnen** |
+| ich reise             | wir reisen       |
+| du reis**t**            | ihr reist        |
+| er, sie, es reist     | sie, Sie reisen |
 
-
-| kommen *(to come from)*   |                      |
+| chatten *(to chat(in the web))*     |                      |
 | :------------------------ | -------------------- |
-| ich **komme**             | wir **kommen**       |
-| du **kommst**             | ihr **kommt**        |
-| er, sie, es **kommt**     | sie, Sie  **kommen** |
+| ich chatte             | wir chatten       |
+| du chatt**est**             | ihr chatt**et**        |
+| er, sie, es chatt**et**     | sie, Sie  chatten |
+
+| tanzen *(to dance)*     |                      |
+| :------------------------ | -------------------- |
+| ich tanze             | wir tanzen       |
+| du tanz**t**             | ihr tanzt        |
+| er, sie, es tanzt     | sie, Sie  tanzen |
 
 
-| lernen *(to live in)*     |                      |
+| haben *(to play)*     |                      |
+| :------------------------ | -------------------- |
+| ich habe             | wir haben       |
+| du **hast**             | ihr **habt**        |
+| er, sie, es **hat**     | sie, Sie  haben |
+
+
+### Regular verbs
+
+| **wohn**en *(to live in)*     | |
+| :------------------------ | -------------------- |
+| ich wohn**e**             | wir wohn**en**       |
+| du wohn**st**             | ihr wohn**t**        |
+| er, sie, es wohn**t**     | sie, Sie  wohn**en** |
+
+| **komm**en *(to come from)*   |                      |
+| :------------------------ | -------------------- |
+| ich komm**e**             | wir komm**en**       |
+| du komm**st**             | ihr komm**t**        |
+| er, sie, es komm**t**     | sie, Sie  komm**en** |
+
+| **lern**en *(to live in)*     |                      |
 | :------------------------ | -------------------- |
 | ich **lerne**             | wir **lernen**       |
 | du **lernst**             | ihr **lernt**        |
 | er, sie, es **lernt**     | sie, Sie  **lernen** |
 
-
-| fotografieren *(to photograph)*     |                      |
+| **fotografier**en *(to photograph)*     |                      |
 | :------------------------ | -------------------- |
-| ich **fotografiere**             | wir **fotografieren**       |
-| du **fotografierst**             | ihr **fotografiernt**        |
-| er, sie, es **fotografiert**     | sie, Sie  **fotografieren** |
-
-
-| singen *(to sing)*     |                      |
-| :------------------------ | -------------------- |
-| ich **singe**             | wir **singen**       |
-| du **singst**             | ihr **singt**        |
-| er, sie, es **singt**     | sie, Sie  **singen** |
-
-
-| reisen *(to travel)*     |                      |
-| :------------------------ | -------------------- |
-| ich **reise**             | wir **reisen**       |
-| du **reist**             | ihr **reist**        |
-| er, sie, es **reist**     | sie, Sie  **reisen** |
-
-
-| chatten *(to chat(in the web))*     |                      |
-| :------------------------ | -------------------- |
-| ich **chatte**             | wir **chatten**       |
-| du **chattest**             | ihr **chattet**        |
-| er, sie, es **chattet**     | sie, Sie  **chatten** |
-
-
-| tanzen *(to dance)*     |                      |
-| :------------------------ | -------------------- |
-| ich **tanze**             | wir **tanzen**       |
-| du **tanzt**             | ihr **tanzt**        |
-| er, sie, es **tanzt**     | sie, Sie  **tanzen** |
-
-
-| schwimmen *(to swim)*     |                      |
-| :------------------------ | -------------------- |
-| ich **schwimme**             | wir **schwimmen**       |
-| du **schwimmst**             | ihr **schwimmt**        |
-| er, sie, es **schwimmt**     | sie, Sie  **schwimmen** |
-
-
-| kochen *(to cook)*     |                      |
-| :------------------------ | -------------------- |
-| ich **koche**             | wir **kochen**       |
-| du **kochst**             | ihr **kocht**        |
-| er, sie, es **kocht**     | sie, Sie  **kochen** |
-
-
-| spielen *(to play)*     |                      |
-| :------------------------ | -------------------- |
-| ich **spiele**             | wir **spielen**       |
-| du **spielst**             | ihr **spielt**        |
-| er, sie, es **spielt**     | sie, Sie  **spielen** |
-
-
-| joggen *(to jog/run)*     |                      |
-| :------------------------ | -------------------- |
-| ich **jogge**             | wir **joggen**       |
-| du **joggst**             | ihr **joggt**        |
-| er, sie, es **joggt**     | sie, Sie  **joggen** |
-
-
-| Musik hören *(to listen to music)*     |                      |
-| :------------------------ | -------------------- |
-| ich **höre** Musik             | wir **hören** Musik       |
-| du **hörst** Musik             | ihr **hört** Musik        |
-| er, sie, es **hört** Musik     | sie, Sie  **hören** Musik |
-
+| ich fotografier**e**             | wir fotografier**en**       |
+| du fotografier**st**             | ihr fotografier**t**        |
+| er, sie, es fotografier**t**     | sie, Sie  fotografier**en** |
 
 | ins Kino gehen *(to go to the cinema)*     |                      |
 | :------------------------ | -------------------- |
-| ich **gehe** ins Kino             | wir **gehen** ins Kino       |
-| du **gehst** ins Kino             | ihr **geht** ins Kino        |
-| er, sie, es **geht** ins Kino     | sie, Sie  **gehen** ins Kino |
+| ich geh**e** ins Kino             | wir geh**en** ins Kino       |
+| du geh**st** ins Kino             | ihr geh**t** ins Kino        |
+| er, sie, es geh**t** ins Kino     | sie, Sie  geh**en** ins Kino |
 
-| haben *(to play)*     |                      |
-| :------------------------ | -------------------- |
-| ich **habe**             | wir **haben**       |
-| du **hast**             | ihr **habt**        |
-| er, sie, es **hat**     | sie, Sie  **haben** |
+**singen**  *(to sing)*     
 
+**schwimmen** *(to swim)*     
 
-| arbeiten *(to work)*     |                      |
-| :------------------------ | -------------------- |
-| ich **arbeite**             | wir **arbeiten**       |
-| du **arbeitest**             | ihr **arbeitet**        |
-| er, sie, es **arbeitet**     | sie, Sie  **arbeiten** |
+**kochen** *(to cook)*     
 
+**spielen** *(to play)*     
+
+**joggen** *(to jog/run)*     
+
+**Musik hören** *(to listen to music)*     
+
+**arbeiten** *(to work)*
 
 ##  *Sentences*
 
