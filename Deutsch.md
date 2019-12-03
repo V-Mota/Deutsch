@@ -42,7 +42,7 @@
 | er, sie, es tanzt     | sie, Sie  tanzen |
 
 
-| haben *(to play)*     |                      |
+| **haben** *(to have)* |                      |
 | :------------------------ | -------------------- |
 | ich habe             | wir haben       |
 | du **hast**             | ihr **habt**        |
@@ -94,6 +94,10 @@
 **Musik hören** *(to listen to music)*     
 
 **arbeiten** *(to work)*
+
+**machen** (to do) Wie machen sie am Wochenende?
+
+
 
 ##  *Sentences*
 
@@ -158,6 +162,12 @@ Ich komme aus Portugal.
 **Wo wohnst du?**
 Ich wohne in Porto.
 
+*How old are you?*
+**Wie alt bist du?**
+**Wie alt sind sie?**
+Ich bin 28. *(I'm 28*)*
+Ich bin 28 Jahre alt. *(I'm 28 years old)*
+
 ### Interests
 
 **The verb like doesn't exist in most cases, in it place there is the adverb gern (~gladly)**
@@ -166,12 +176,12 @@ Ich wohne in Porto.
 *I like to go to the movies*
 **Ich gehe ins Kino gern**
 
-*When asked* **Do you like to go to the cinema?** (Gehst du/Gehen Sie gern ins Kino?/)
-**Ja, sehr gern** Yes, i ~love to!
-**Ja, ich gehe gern ins Kino** Yes, i like going to the cinema.
-**Es geht** Meh.
-**Nein, nicht so gern** No, i don't like it much.
-**Nein, ich gehe nicht ins Kino gern** No, i dont't like going to the cinema
+**Gehst du/Gehen Sie gern ins Kino?** ( Do you like to go to the cinema? )
+Ja, sehr gern** Yes, i ~love to!
+Ja, ich gehe gern ins Kino Yes, i like going to the cinema.
+Es geht Meh.
+Nein, nicht so gern.  -> No, i don't like it much.
+Nein, ich gehe nicht ins Kino gern. -> No, i dont't like going to the cinema
 
 *Do you go to the Cinema often*
 **Gehst du oft ins Kino?**
@@ -179,11 +189,16 @@ Ich wohne in Porto.
 Ja, ich gehe oft ins Kino.
 Nein, Ich gehe nicht oft ins Kino.
 
-*How old are you?*
-**Wie alt bist du?**
-**Wie alt sind sie?**
-Ich bin 28. *(I'm 28*)*
-Ich bin 28 Jahre alt. *(I'm 28 years old)*
+Vamos ao cineme?
+**Gehen wir ins Kino am Sannstag?**
+Ya, super!
+Nein, das geht leider nicht.
+
+
+
+
+
+
 
 ## *Grammar*
 
@@ -217,7 +232,7 @@ Ich bin 28 Jahre alt. *(I'm 28 years old)*
 **Wo** - wohnen - **in** - (*Where*)
 **Woher** - kommen - **aus** - (*From where*)
 **Welch** - sprechen - (*Which*)
-**Wie** - heißen / geht - (*How*)
+**Wie** - heißen / geht  - (*How*)
 **Wer** - sind - (*Who*)
 **Wann** - (*When*)
 
@@ -229,20 +244,17 @@ Ja/Nein
 **(*Kochen Sie*) gern**
 Ja/Nein
 
-
-
-
-
 ## Vocabulary
 
 **Kursbuch** -> Text book
 **Arbeitsbuch** -> Exercise book
 **Buchstabieren** -> Spell
 **Entschuldigung** -> Sorry
-**Wochenende** -> Weekend
 **jedentag** -> Every day
 **die Zeitung** -> newspaper
 **die Zeitschnift** -> magazines
+**warte** -> to wait
+**viel** -> muito
 
 
 
@@ -256,12 +268,6 @@ Ja/Nein
 #### **Wochenende** -> Weekend
 **Samstag**
 **Sonntag**
-
-
-### Numbers
-
-1 - eins
-2- 
 
 ### Countrys
 
