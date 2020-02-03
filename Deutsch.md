@@ -48,6 +48,12 @@
 | du **hast**             | ihr **habt**        |
 | er, sie, es **hat**     | sie, Sie  haben |
 
+| **fahren** *(to have)* |                      |
+| :------------------------ | -------------------- |
+| ich fahre             | wir fahren       |
+| du f**ä**hrst             | ihr fahrt        |
+| er, sie, es f**a**hrt     | sie, Sie fahren |
+
 
 ### Regular verbs
 
@@ -95,9 +101,11 @@
 
 **arbeiten** *(to work)*
 
-**machen** (to do) Wie machen sie am Wochenende?
+**machen** *(to do) Wie machen sie am Wochenende?*
 
+**suchen** *(to look for)* Ich suche das Hotel "Zentral".
 
+**kaufen** *(to buy)*
 
 ##  *Sentences*
 
@@ -195,11 +203,6 @@ Ya, super!
 Nein, das geht leider nicht.
 
 
-
-
-
-
-
 ## *Grammar*
 
 **ä ö ü** -> umlaut
@@ -243,6 +246,45 @@ Ja/Nein
 
 **(*Kochen Sie*) gern**
 Ja/Nein
+
+### Direções
+
+Entschuldigung, ich habe ein Frage.
+Wo ist ...?
+Das is ganz einfach.
+Gehen Sie rechts/links/geradeaus und dann ....
+Das ist ...
+
+hier -> aqui
+gleich -> imediatamente
+wieder -> novamente
+dann -> depois
+rechts -> direita
+links -> esquerda
+geradeaus -> em frente
+genau -> extato/exatamente
+
+Die erste/zweite/dritte Straße...
+
+Entschuldigung, wo ist der Banhof?
+Gehen Sie rechts uns dann links.
+Da ist der Bahnhof
+
+Hallo, ich suche das Hotel "Zentral". (procuro)
+Das ist einfach. Gehen Sie hier geradeaus. (aqui em frente)
+Da ist der Park. Da gehen Sie links und dann gleich wieder rechts. (depois imediatamente novamente à direita)
+
+Entschuldigung, wo ist der Fischmarkt?
+Der Fischmarkt? Hier gleich links und dann die Straße geradeaus.
+Dann rechts und wieder geradeaus, dann rechts und Sie sind da.
+
+### Imperativo
+
+Verbo infinitivo + substantivo + resto + !
+
+Gehen Sie links!
+Fahren Sie mit gem Bus 51!
+Gehen Sie 100, geradeaus!
 
 ## Vocabulary
 
@@ -348,11 +390,12 @@ interessant -> interessante
 ### die Schenswürdigkeit(en) [atrações turisticas]
 
 #### Masculinos
-der Bahnhof - die Bahnhöfe - Estação comboio
-der Flughafen - die Flughäfen - Aeroporto
-der Fluss - die Flüsse - Rio
 der Hagen - die Häfen - porto
+der Flughafen - die Flughäfen - Aeroporto
+der Bahnhof - die Bahnhöfe - Estação comboio
+der Fluss - die Flüsse - Rio
 der Markt - die Märkte - mercado
+der Turm - die Türme - torre
 der Ort - die Orte - local/lugar
 der Park - die Parks
 der See - die Seen - lago
@@ -368,6 +411,7 @@ das Geschäft - die Geschäft - lojas
 das Hotel - die Hotels
 das Meer - die Meere - mar
 das Rathaus - die Rathäuser - câmara municipal
+das Land - die Länder - país
 
 #### Verbos
 ansehen - ver/assistir
@@ -399,5 +443,7 @@ das Fahrrad  - die Fahrräder - bicicleta
 das Flugzeug - die Flugzeuge - avião
 das Schiff - die Schiffe - barco/navio
 das Auto - die Autos - automovel
+das Motorrad - die Motorräder - mota
+das Taxi - die Taxis
 
 das Ticket - die Tickets - bilhetes
