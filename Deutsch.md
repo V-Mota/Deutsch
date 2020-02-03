@@ -115,7 +115,7 @@ Ich bin ... Und das ist ...  (i'm ... and this is ... )
 **Wie heißt du?**
 **Wie heißen Sie?**
 Ich heiße ...
-**Entschuldigung, wie heißt du?** (Sorry, what's your name?) 
+**Entschuldigung, wie heißt du?** (Sorry, what's your name?)
 Wie ist dein Name?
 Meine Name ist ...
 
@@ -129,11 +129,11 @@ Meine Name ist ...
 *How are you?*
 **Wie geht's?** *(Neutral/Formal/Informal)*
 **Wie geht es dir?** (Informal)
-**Wie geht Ihm?** *(Formal)* 
+**Wie geht Ihm?** *(Formal)*
 **Wie geht es Ihnen?** (Formal)
 Sehr gut!  :D  
 Es geht.   : )     
-Gut, danke.  : | 
+Gut, danke.  : |
 **Gut, danke. Und dir?** *("Good thanks, and you")*
 **Auch gut, danke** *("Also good, thanks")*
 
@@ -152,7 +152,7 @@ Gut, danke.  : |
 **Welch Sprachen sprichst du?**
 Ich spreche Portugiesisch, Englisch und Deutsch.
 
-*Where do you come from?* 
+*Where do you come from?*
 **Woher kommen Sie?**
 **Woher kommst du?**
 Ich komme aus Portugal.
@@ -209,7 +209,7 @@ Nein, das geht leider nicht.
 **Frau** *(Ms./Mrs.)*
 *(Use with the last name or with first + last)*
 
-**der** (male) 
+**der** (male)
 **die** (female)
 **das** (neutral)
 
@@ -217,11 +217,11 @@ Nein, das geht leider nicht.
 
 **mein** Name
 **mein** Kollege
-**der** Kollege 
+**der** Kollege
 **Ihr** Kollege (formal)
 
 #### male
-**meine** Kollegin 
+**meine** Kollegin
 **dein** Kollegin
 **Ihre** Kollegin (formal)
 
@@ -284,40 +284,120 @@ There are 4 types of countries, but 90% of the countries are neutral:
 
 Aus der **Schweiz** spricht man **Deutsch**, **Französisch**, **Italienisch** und **Rätoromanisch**.
 Aus der **Schweden** spricht man **Schwedisch.**
-Aus der **Türkei** spricht man **Türkisch**. 
-Aus der **Ukraine** spricht man **Ukrainisch**. 
-Aus der **Slowakei** spricht man **Slowakisch**. 
+Aus der **Türkei** spricht man **Türkisch**.
+Aus der **Ukraine** spricht man **Ukrainisch**.
+Aus der **Slowakei** spricht man **Slowakisch**.
 
 #### Plural
 
-Aus den **USA** spricht man **Englisch**. 
+Aus den **USA** spricht man **Englisch**.
 Aus den **Niederladen** spricht man **Niederländisch**.
 
 #### Male
 
 Aus dem **Irak** spricht man **Arabisch.**
-Aus dem **Iran** spricht man **Arabisch**. 
-Aus dem **Libanon** spricht man **Arabisch**. 
-Aus dem **Jemen** spricht man **Arabisch**. 
+Aus dem **Iran** spricht man **Arabisch**.
+Aus dem **Libanon** spricht man **Arabisch**.
+Aus dem **Jemen** spricht man **Arabisch**.
 
 #### Neutral
 
 Aus **Portugal** spricht man **Portugiesisch**.
-Aus **Deutschland** spricht man **Deutsch**. 
+Aus **Deutschland** spricht man **Deutsch**.
 Aus **Polen** spricht man **Polnisch**.
 Aus **Mexiko** spricht man **Spanisch**.
-Aus **Kanada** spricht man **Englisch** und **Französisch**. 
+Aus **Kanada** spricht man **Englisch** und **Französisch**.
 Aus **Thailand** spricht man **Thai**.
-Aus **Irland** spricht man **Irisch** und **Englisch**. 
+Aus **Irland** spricht man **Irisch** und **Englisch**.
 Aus **Syrien** spricht man **Arabisch**.
-Aus **Griechenland** spricht man **Griechisch**. 
+Aus **Griechenland** spricht man **Griechisch**.
 Aus **Neuseeland** spricht man **Maori** und **Englisch**.
 Aus **Spanien** spricht man **Spanisch**.
 Aus **Italien** spricht man **Italienisch**.
-Aus **China** spricht man **Chinesisch**. 
+Aus **China** spricht man **Chinesisch**.
 Aus **Dänemark** spricht man **Dänisch**.
 Aus **Großbritannien** spricht man **Englisch**.
-Aus **Russland** spricht man **Russisch**. 
-Aus **Ägypten** spricht man **Arabisch**. 
+Aus **Russland** spricht man **Russisch**.
+Aus **Ägypten** spricht man **Arabisch**.
 Aus **Japan** spricht man **Japanisch**.
-Aus **Deutschland** spricht man **Deutsch**. 
+Aus **Deutschland** spricht man **Deutsch**.
+
+### Adjectives
+
+groß -> grande
+klein -> pequeno
+
+hoch -> alto
+niedrig -> baixo
+
+breit -> largo
+schmal -> estreito
+
+lang -> comprido
+kurz -> curto
+
+alt -> antigo
+neu -> novo
+modern -> moderno
+
+schön -> bonito
+hasslich -> feio
+
+interessant -> interessante
+
+### die Schenswürdigkeit(en) [atrações turisticas]
+
+#### Masculinos
+der Bahnhof - die Bahnhöfe - Estação comboio
+der Flughafen - die Flughäfen - Aeroporto
+der Fluss - die Flüsse - Rio
+der Hagen - die Häfen - porto
+der Markt - die Märkte - mercado
+der Ort - die Orte - local/lugar
+der Park - die Parks
+der See - die Seen - lago
+der Terminal - die Terminals - caminho
+
+#### Femininos
+die Kirche - die Kirchen - igreja
+die See - die Seen - mar
+die Stadt - die Städte - cidade
+
+#### Neutros
+das Geschäft - die Geschäft - lojas
+das Hotel - die Hotels
+das Meer - die Meere - mar
+das Rathaus - die Rathäuser - câmara municipal
+
+#### Verbos
+ansehen - ver/assistir
+besuchen - visitar
+sehen - ver/assistir
+
+
+
+### die Fahrgelegenheit [meios de transporte]
+fahren - ir de transporte
+
+#### Masculinos
+der Bus - die Busses
+der Zug - die Züge
+
+der Passagier - die Passagiere
+
+#### Femininos
+
+die S-Bahn - die S-Bahnen - comboio sub-urbano
+die U-Bahn - die U-Bahnen - metro
+die Straßenbahn - die Straßenbahnen - electrico/tram
+
+die Fahrkarte - die Fahrkarten - bilhete transporte
+
+#### Neutros
+
+das Fahrrad  - die Fahrräder - bicicleta
+das Flugzeug - die Flugzeuge - avião
+das Schiff - die Schiffe - barco/navio
+das Auto - die Autos - automovel
+
+das Ticket - die Tickets - bilhetes
