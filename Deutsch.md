@@ -48,7 +48,7 @@
 | du **hast**             | ihr **habt**        |
 | er, sie, es **hat**     | sie, Sie  haben |
 
-| **fahren** *(to have)* |                      |
+| **fahren** *(to go/travel/ride)* |               |
 | :------------------------ | -------------------- |
 | ich fahre             | wir fahren       |
 | du f**ä**hrst             | ihr fahrt        |
